@@ -1,7 +1,7 @@
 # Museum landing page
-Implement landing page according to [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1) - Use BEM and SCSS
+Implemented landing page according to [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1) - Use BEM and SCSS
 
-Check font styles. Use [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans?query=ibm), [Montserrat](https://fonts.google.com/specimen/Montserrat?query=mon)
+Fint Styles Use [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans?query=ibm), [Montserrat](https://fonts.google.com/specimen/Montserrat?query=mon)
 
 - The design 1440px
 - Desktop 1280px
@@ -35,21 +35,7 @@ Check font styles. Use [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Ple
 16. OPTIONAL: After everything is done, you can add a slider for viewing pictures in the gallery (for mobile version)
 
 
-## Github flow
-1. **Fork** the repo.
-2. **Clone** the forked one. (The project link should have your name but not `mate-academy`)
-3. Run `npm install` (or just `npm i`).
-4. Run `npm start`.
-5. Open one more terminal window for the next steps.
-6. `git checkout -b develop` - to create new branch and switch on it.
-7. Write you code in `src` folder.
-8. Run `npm run lint` and fix code style errors.
-9. Run `npm run deploy` to deploy your solution to `gh-pages`.
-10. `git add . && git commit -m 'solution'` to save your changes.
-11. `git push origin develop` - to send you code for PR.
-12. Create a Pull Request (PR) from your branch `develop` to branch `master` of original repo.
-13. Replace `<your_account>` with your Github username in the
-  [DEMO LINK](https://<your_account>.github.io/Museum/).
-14. Copy `DEMO LINK` to the PR description.
+## Demo links
 
-> To update you PR repeat steps 7-11.
+- [DEMO LINK](https://AndriiZakharenko.github.io/Museum/)
+
