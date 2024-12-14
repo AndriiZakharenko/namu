@@ -1,4 +1,4 @@
-# Museum
+# NAMU
 
 - HTML, CSS (SCSS), JS
 - BEM
